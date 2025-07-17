@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repositry.
 <br>
-Author - Saloni kumari
+Author - Saloni (IGDTUW)
